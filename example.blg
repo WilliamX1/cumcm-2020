@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: example.aux
+The style file: plain.bst
+Database file #1: ref.bib
+Warning--entry type for "张波2013" isn't style-file defined
+--line 5 of file ref.bib
+Warning--entry type for "2002" isn't style-file defined
+--line 59 of file ref.bib
+Warning--entry type for "段翀2019" isn't style-file defined
+--line 71 of file ref.bib
+Warning--to sort, need author or key in 2002
+Warning--to sort, need author or key in 段翀2019
+Warning--empty publisher in 姜启源，谢金星，叶俊2017
+Warning--empty year in 姜启源，谢金星，叶俊2017
+Warning--empty booktitle in 柏群，曹华玲2012
+Warning--empty year in 柏群，曹华玲2012
+Warning--empty booktitle in 魏晓彬2014
+Warning--empty year in 魏晓彬2014
+You've used 8 entries,
+            2118 wiz_defined-function locations,
+            536 strings with 5510 characters,
+and the built_in function-call counts, 1916 in all, are:
+= -- 168
+> -- 66
+< -- 0
++ -- 28
+- -- 20
+* -- 113
+:= -- 303
+add.period$ -- 19
+call.type$ -- 8
+change.case$ -- 33
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 81
+empty$ -- 197
+format.name$ -- 20
+if$ -- 410
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 6
+newline$ -- 38
+num.names$ -- 12
+pop$ -- 62
+preamble$ -- 1
+purify$ -- 26
+quote$ -- 0
+skip$ -- 60
+stack$ -- 0
+substring$ -- 82
+swap$ -- 8
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 30
+warning$ -- 8
+while$ -- 14
+width$ -- 9
+write$ -- 70
+(There were 11 warnings)
